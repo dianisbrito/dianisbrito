@@ -35,7 +35,7 @@ Biologist with over 12 years of experience integrating remote sensing, advanced 
 
 ---
 
-## 📄 Peer-Reviewed Publications
+## 📄 Publications
 
 - Calderón, G. E., Provensal, M. C., & **Brito Hoyos, D. M.** (2022). Co-circulation of Junín virus and other mammarenaviruses in a geographic area without confirmed cases of Argentine haemorrhagic fever. *Medicina (Buenos Aires)*.
 - Andreo, V. C., Belgiu, M., **Brito Hoyos, D. M.**, Osei, F., Provensal, M. C., et al. (2019). Rodents and satellites: Predicting mice abundance and distribution with Sentinel-2 data. *Ecological Informatics*, 51, 157–167.
