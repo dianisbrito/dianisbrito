@@ -15,7 +15,7 @@ Biologist with over 12 years of experience integrating remote sensing, advanced 
 `GLM/GLMM/GAM` `Time series` `Machine Learning` `Multivariate analysis & geostatistics` `Experimental design`
 
 **Programming & Development**
-`R (tidyverse, ggplot2, caret, sf)` `Python (pandas, numpy, scikit-learn, OpenCV)` `Shiny` `SQL` `IDL / Bash / Linux`
+`R (tidyverse, ggplot2, caret, sf)` `Python (pandas, numpy, scikit-learn, OpenCV, Ultralytics, PyTorch)` `Shiny` `SQL` `IDL / Bash / Linux`
 
 **Remote Sensing & Geomatics**
 `Sentinel-2` `MODIS` `Landsat` `QGIS` `GRASS GIS` `ENVI` `NDVI/EVI/LST` `Ecological niche modelling`
