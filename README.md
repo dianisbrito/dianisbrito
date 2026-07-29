@@ -45,7 +45,7 @@ Biologist with over 12 years of experience integrating remote sensing, advanced 
 
 ## 💻 Software & Open-Source Code
 
-- **Brito Hoyos, D. M.** (2024). Code for chicken and robot detection using YOLO v8. Figshare. Consejo Nacional de Investigaciones Científicas y Técnicas. (dataset). [http://hdl.handle.net/11336/236742].
+- **Brito Hoyos, D. M.** (2024). Code for chicken and robot detection using YOLO v8. Figshare. Consejo Nacional de Investigaciones Científicas y Técnicas. [dataset](http://hdl.handle.net/11336/236742].
 
 ## 🎤 Conference Presentations
 
