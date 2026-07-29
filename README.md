@@ -27,7 +27,7 @@ Biologist with over 12 years of experience integrating remote sensing, advanced 
 
 ## 🚀 Featured Projects
 
-- 🐔 **Automatic detection of welfare-indicating behaviors in broiler chickens (YOLO v8)** — Computer vision models for animal welfare monitoring. [Code on Figshare](https://doi.org/10.6084/m9.figshare.25563072.v2)
+- 🐔 **Automatic detection of welfare-indicating behaviors in broiler chickens (YOLO v8)** — Computer vision models for animal welfare monitoring. 
 - 🐭 **Predicting Mice Abundance** — Integration of remote sensing and predictive modelling to estimate rodent reservoir abundance. Published in *Ecological Informatics* (2019).
 - 🌡️ **Mosquito Biodiversity and Vegetation** — Spatial analysis funded by the National Geographic Society (Grant NGS67544R-20).
 - 🦟 **Climate Change and Dengue in Córdoba** — Modelling of meteorological and ecological drivers of dengue, funded by the Burroughs Wellcome Fund (Subaward 453277-19F82).
@@ -45,7 +45,7 @@ Biologist with over 12 years of experience integrating remote sensing, advanced 
 
 ## 💻 Software & Open-Source Code
 
-- **Brito Hoyos, D. M.** (2024). Code for chicken and robot detection using YOLO v8. Figshare. Consejo Nacional de Investigaciones Científicas y Técnicas. [dataset](http://hdl.handle.net/11336/236742].
+- **Brito Hoyos, D. M.** (2024). Code for chicken and robot detection using YOLO v8. Figshare. Consejo Nacional de Investigaciones Científicas y Técnicas. [dataset](http://hdl.handle.net/11336/236742).
 
 ## 🎤 Conference Presentations
 
