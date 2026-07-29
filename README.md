@@ -27,18 +27,14 @@ Biologist with over 12 years of experience integrating remote sensing, advanced 
 
 ## 🚀 Featured Projects
 
-- 🧪 **[Method Validation Toolkit](https://github.com/dianisbrito/method-validation-toolkit)** — Interactive R Shiny dashboards for statistical validation of analytical/diagnostic methods under ISO/IEC 17025 and ISO 17034 (sensitivity/specificity, qPCR validation stats, Taguchi experimental design).
-  🔗 [Sensitivity/Specificity Calculator — live demo](https://lxcbd2-diana-brito.shinyapps.io/sensitivity-specificity-calculator/)
-- 🔬 **[Reference Material & Proficiency Testing Analytics](https://github.com/dianisbrito/rm-pt-analytics)** — Statistical workflow behind qualitative reference material production (ISO 17034) and proficiency testing (ISO 17043): Gower-coefficient value assignment, ANOVA-based homogeneity, Guide-35 stability regression, and ISO 13528 Algorithm A performance scoring.
-  🔗 [Live demo](https://rm-pt-analytics.streamlit.app/)
-- 📦 **[SQL Lab Inventory Dashboard](https://github.com/dianisbrito/sql-lab-inventory-dashboard)** — SQL (SQLite) + Python/Streamlit dashboard for laboratory reference-material inventory management, built on real SQL queries (joins, window functions, CTEs, views) rather than in-memory filtering.
-  🔗 [Live demo](https://sql-lab-inventory-dashboard.streamlit.app/)
-- 📈 **[Sales Funnel Conversion Analytics](https://github.com/dianisbrito/sales-funnel-conversion-analytics)** — Statistical/ML analysis of a Prospect→Opportunity→Sale conversion funnel: Multiple Correspondence Analysis, SMOTE-balanced classification (Decision Tree, Random Forest, LDA), and business-facing insights (CPA, ROI by channel, revenue-at-risk).
-  🔗 [Live demo](https://sales-funnel-conversion-analytics.streamlit.app/)
-- 🐔 **Automatic detection of welfare-indicating behaviors in broiler chickens (YOLO v8)** — Computer vision models for animal welfare monitoring. [Code on Figshare](https://doi.org/10.6084/m9.figshare.25563072.v2)
-- 🐭 **Predicting Mice Abundance with Sentinel-2** — Integration of remote sensing and predictive modelling to estimate rodent reservoir abundance. Published in *Ecological Informatics* (2019).
-- 🌡️ **Urban Heat Islands, Mosquito Biodiversity and Vegetation** — Spatial analysis funded by the National Geographic Society (Grant NGS67544R-20).
-- 🦟 **Climate Change and Dengue in Córdoba** — Modelling of meteorological and ecological drivers of dengue, funded by the Burroughs Wellcome Fund (Subaward 453277-19F82).
+- 🧪 **[Method Validation Toolkit](https://github.com/dianisbrito/method-validation-toolkit):** Interactive R Shiny dashboards for statistical validation of analytical/diagnostic methods under ISO/IEC 17025 and ISO 17034 (sensitivity/specificity, qPCR validation stats, Taguchi experimental design).
+- 🔬 **[Reference Material & Proficiency Testing Analytics](https://github.com/dianisbrito/rm-pt-analytics):** Statistical workflow behind qualitative reference material production (ISO 17034) and proficiency testing (ISO 17043): Gower-coefficient value assignment, ANOVA-based homogeneity, Guide-35 stability regression, and ISO 13528 Algorithm A performance scoring.
+- 📦 **[SQL Lab Inventory Dashboard](https://github.com/dianisbrito/sql-lab-inventory-dashboard):** SQL (SQLite) + Python/Streamlit dashboard for laboratory reference-material inventory management, built on real SQL queries (joins, window functions, CTEs, views) rather than in-memory filtering.
+- 📈 **[Sales Funnel Conversion Analytics](https://github.com/dianisbrito/sales-funnel-conversion-analytics):** Statistical/ML analysis of a Prospect→Opportunity→Sale conversion funnel: Multiple Correspondence Analysis, SMOTE-balanced classification (Decision Tree, Random Forest, LDA), and business-facing insights (CPA, ROI by channel, revenue-at-risk).
+- 🐔 **Automatic detection of welfare-indicating behaviors in broiler chickens (YOLO v8):** Computer vision models for animal welfare monitoring. [Code on Figshare](https://doi.org/10.6084/m9.figshare.25563072.v2)
+- 🐭 **Predicting Mice Abundance with Sentinel-2:** Integration of remote sensing and predictive modelling to estimate rodent reservoir abundance. Published in *Ecological Informatics* (2019).
+- 🌡️ **Urban Heat Islands, Mosquito Biodiversity and Vegetation:** Spatial analysis funded by the National Geographic Society (Grant NGS67544R-20).
+- 🦟 **Climate Change and Dengue in Córdoba:** Modelling of meteorological and ecological drivers of dengue, funded by the Burroughs Wellcome Fund (Subaward 453277-19F82).
 
 ---
 
@@ -50,7 +46,7 @@ Biologist with over 12 years of experience integrating remote sensing, advanced 
 - **Brito Hoyos, D. M.**, Brito Sierra, E., & Villalobos Álvarez, R. (2013). Geographic distribution of wildlife rabies risk and associated factors in Colombia, 1982–2010. *Revista Panamericana de Salud Pública (PAHO)*, 33(1), 8–14.
 
 
-## 💻 Software & Open-Source Code
+## 💻 Open-Source Code & Dataset
 
 - **Brito Hoyos, D. M.** (2024). Code for chicken and robot detection using YOLO v8. Figshare. Consejo Nacional de Investigaciones Científicas y Técnicas. [dataset](http://hdl.handle.net/11336/236742).
 
