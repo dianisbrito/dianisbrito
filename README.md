@@ -31,6 +31,8 @@ Biologist with over 12 years of experience integrating remote sensing, advanced 
 - 🔬 **[Reference Material & Proficiency Testing Analytics](https://github.com/dianisbrito/rm-pt-analytics):** Statistical workflow behind qualitative reference material production (ISO 17034) and proficiency testing (ISO 17043): Gower-coefficient value assignment, ANOVA-based homogeneity, Guide-35 stability regression, and ISO 13528 Algorithm A performance scoring.
 - 📦 **[SQL Lab Inventory Dashboard](https://github.com/dianisbrito/sql-lab-inventory-dashboard):** SQL (SQLite) + Python/Streamlit dashboard for laboratory reference-material inventory management, built on real SQL queries (joins, window functions, CTEs, views) rather than in-memory filtering.
 - 📈 **[Sales Funnel Conversion Analytics](https://github.com/dianisbrito/sales-funnel-conversion-analytics):** Statistical/ML analysis of a Prospect→Opportunity→Sale conversion funnel: Multiple Correspondence Analysis, SMOTE-balanced classification (Decision Tree, Random Forest, LDA), and business-facing insights (CPA, ROI by channel, revenue-at-risk).
+- 🦟 **[Vector Surveillance — Spatial SQL Analytics](https://github.com/dianisbrito/vector-surveillance-spatial-sql)** — SQL-driven geospatial analytics for household-level entomological surveillance: SQL queries → GIS vector layers (GeoPandas) → spatial autocorrelation analysis (Moran's I).
+  🔗 [Live demo](https://vector-surveillance-spatial-sql.streamlit.app/)
 - 🐔 **Automatic detection of welfare-indicating behaviors in broiler chickens (YOLO v8):** Computer vision models for animal welfare monitoring.
 - 🐭 **Predicting Mice Abundance with Sentinel-2:** Integration of remote sensing and predictive modelling to estimate rodent reservoir abundance. Published in *Ecological Informatics* (2019).
 - 🌡️ **Urban Heat Islands, Mosquito Biodiversity and Vegetation:** Spatial analysis funded by the National Geographic Society (Grant NGS67544R-20).
@@ -38,23 +40,9 @@ Biologist with over 12 years of experience integrating remote sensing, advanced 
 
 ---
 
-## 📄 Publications
-
-- Calderón, G. E., Provensal, M. C., & **Brito Hoyos, D. M.** (2022). Co-circulation of Junín virus and other mammarenaviruses in a geographic area without confirmed cases of Argentine haemorrhagic fever. *Medicina (Buenos Aires)*.
-- Andreo, V. C., Belgiu, M., **Brito Hoyos, D. M.**, Osei, F., Provensal, M. C., et al. (2019). Rodents and satellites: Predicting mice abundance and distribution with Sentinel-2 data. *Ecological Informatics*, 51, 157–167.
-- **Brito Hoyos, D. M.**, Scavuzzo, C. M., Provensal, M. C., & Lanfri, M. A. (2017). Generation of environmental information for public health applications using GRASS GIS. *IEEE*, pp. 1–6.
-- **Brito Hoyos, D. M.**, Brito Sierra, E., & Villalobos Álvarez, R. (2013). Geographic distribution of wildlife rabies risk and associated factors in Colombia, 1982–2010. *Revista Panamericana de Salud Pública (PAHO)*, 33(1), 8–14.
-
-
 ## 💻 Open-Source Code & Dataset
 
 - **Brito Hoyos, D. M.** (2024). Code for chicken and robot detection using YOLO v8. Figshare. Consejo Nacional de Investigaciones Científicas y Técnicas. [dataset](http://hdl.handle.net/11336/236742).
-
-## 🎤 Conference Presentations
-
-- Goldner, P. & **Brito Hoyos, D. M.** (2024). Tree Cover and Spatial Patterns of Urban Green Infrastructure in Córdoba. *XIII National Conference on Urban Ecology*, Mendoza.
-- Rossi, F., **Brito Hoyos, D. M.** et al. (2024). Colored tags for monitoring social dynamics: AI algorithms. *Poultry Science Association Latin American Conference*, Foz do Iguaçu.
-- Leonhard, G., **Brito Hoyos, D. M.** et al. (2014). GIS and remote sensing for vector-borne disease control: Chagas. *III Pan-American Congress of Zoonoses*. Special mention.
 
 ---
 
